@@ -1,0 +1,117 @@
+body {
+	background: #696969;
+}
+
+#first {
+	background: #7b0000;
+	padding-top: 6px;
+	padding-bottom: 5px;
+	text-shadow:-1px -1px 0px #000, 
+				-1px 1px 0px #000,                    
+				1px -1px 0px #000,                  
+				1px 0px 0px #000;
+}
+
+#cap {
+	width: 12%;
+	margin-left: 3%;
+
+}
+
+#header {
+	background: #ffffff;
+	border-bottom: 5px solid;
+	border-top: 5px solid;
+	display: flex;
+}
+
+#title {
+	font-size: 80px;
+	margin-left: 6%;
+	margin-right: 6%;
+	margin-top: 2.6%;
+	font-weight: bolder;
+}
+
+#first li {
+	display: inline;
+	font-size: 20px;
+	color: white;
+	margin-left: 159px;
+}
+
+.imgarmas {
+	width: 17%;
+	display: flex;
+	margin-left: 15px;
+}
+
+#setordevendas {
+	text-align: left;
+}
+
+
+#venda1, #venda2, #venda3, #venda4, #venda5 {
+	margin-top: 35px;
+	margin-bottom: 35px;
+	margin-left: 50px;
+	margin-right: 50px;
+	background: #ffffff;
+	border: 3px solid;
+	border-radius: 10px;
+	display: flex;
+	font-size: 20px;
+	text-align: left;
+
+}
+
+#venda1 li, #venda2 li, #venda3 li, #venda4 li, #venda5 li {
+	display: block;
+	margin-top: 22px;
+	margin-left: 22px;
+}
+
+#meio {
+	background: #7b0000;
+	color: white;
+	font-size: 20px;
+	text-shadow:-1px -1px 0px #000, 
+				-1px 1px 0px #000,                    
+				1px -1px 0px #000,                  
+				1px 0px 0px #000;
+	border-bottom: 5px solid black;
+}
+
+#meio li {
+	display: inline-block;
+	width: 19%;
+	text-align: center;
+}
+
+#meio ul {
+	padding-top: 15px;
+	padding-bottom: 15px;
+}
+
+#meio img {
+	width: 20%;
+	padding-left: 10%;
+}
+
+.nome {
+	font-size: 25px;
+	font-weight: bolder;
+	color: #7b0000;
+	margin-bottom: -15px;
+}
+
+.preçoav {
+	font-size: 22px;
+	font-weight: bolder;
+	color: #cc7000;
+	margin-top: -15px;
+}
+
+.preco {
+	margin-top: 55px;
+}
